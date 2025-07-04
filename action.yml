@@ -1,4 +1,4 @@
-name: Laravel Setup
+name: Laravel Environment Setup Action
 description: Shared Laravel setup steps (PHP, Composer, .env)
 
 inputs:
